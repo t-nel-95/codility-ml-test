@@ -11,7 +11,8 @@ pandas = "*"
 matplotlib = "*"
 tqdm = "*"
 sklearn = "*"
-pickle = "*"
+seaborn = "*"
+xgboost = "*"
 
 [requires]
 python_version = "3.6"
