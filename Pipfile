@@ -13,6 +13,8 @@ tqdm = "*"
 sklearn = "*"
 seaborn = "*"
 xgboost = "*"
+keras = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.6"
