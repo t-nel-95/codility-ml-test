@@ -1,4 +1,4 @@
-# Dataroots Codility Test
+# Codility Test
 
 ## Overview
 
